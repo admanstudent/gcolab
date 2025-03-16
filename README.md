@@ -1,0 +1,2 @@
+# gcolab
+untuk Google Colab
